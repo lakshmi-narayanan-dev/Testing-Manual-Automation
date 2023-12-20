@@ -1,0 +1,155 @@
+-----------------------------------------------------------------------------------------------------
+QA Testing [Have a glance before your interview] - Process
+-----------------------------------------------------------------------------------------------------
+
+Software ? - Collection of programs , related documents , assets , & logics combined to attain the client requirement sometimes integrated with hardware or servers.
+
+Big Tech Companies make generic softwares like instagram, Facebook, Google target larger audience. 
+Small Tech Companies make custom specific softwares like CRM, Websites, Apps to specific clients. [SaaS]
+
+Software Engineering => It is a branch of CS that deals with design , development , Testing & maintaining code of an application.
+
+Quality? Degree of Excellence of Something
+
+Agile in the IT Industry? Fast Moving, Quick which is ameliorate version of waterfall model.
+
+Environment or Test Bed ? UAT [user acceptance testing] , QE [Testing] , Prod [.com]
+
+QA vs QC - Quality Assurance vs Quality Control => Prevention vs Curing
+
+Prevention is an extensive testing process or Testing plan which comprises deploy time , deploy individual access, Changes made, Po tickets first, Regression must to each release, document the release tickets + open issues, Areas impacting on sprint refinement call.
+
+Curing is one the issue has been deployed to production
+
+Testing Types - White Box , Grey Box , Black Box  
+
+Story points? Fibonacci numbers give story points to a ticket, because it forces the user to select a relative value. 
+Estimation == Guessing story points
+Tool used = Scrum Poker
+
+Scrum - 15 mins daily update call = what done? What has to be done? What has been planned?
+
+Bug Triage ? Checking old opened bugs to clean up the bucket if there is no major release or if the team has bandwidth.
+
+Retrospective Call? Last sprint what went wrong or good? Who is the reason for that?
+
+Story Refinement Call? PO explaining the ticket to both Dev + QA.
+Dev => Code impact points
+QA => Feature Impact points
+Manager/Scrum Master => Timeline 
+
+Bug Listing
+P0 - Blocker
+P1 - Critical
+P2 - Important
+P3 - Low priority / Aesthetics bugs are low priority
+
+SLA? Service Level Agreement , Maximum Downtime accepted for a site in a year is 0.1% which is 8 hrs max.
+
+Agile Weeks
+1+2 = Planning, Understanding the flow
+3-5 =  Code / Test cases 
+6-7 = Blocker , Critical Issues 
+8+9 = Regression / Release notes
+10 = Release + Sanity + Inform Client & team.
+
+CRUD - Create, Read, Update & Delete. = Dev & QA total life cycle.
+
+Intermittent Bugs => Sometimes happening sometimes not [not consistent bugs]
+
+Ad-hoc Release => Unplanned no document test case to test [client emergency time] 
+Defect Cascading => Defect Happening due to a defect.
+
+Unit = One module , Integration = Between Modules , System = E2E
+
+NFT = Page loading, Performance, Malware, Exemption case behavior.
+
+Regression => Check Previous release not affecting with current release
+
+Buddy Testing => Dev + QA
+Pair Testing => QA + QA
+Monkey Testing => QA Alone
+
+Agile Principles: [ATS MODX]
+Accept last minute changes as per SLA
+Deliver frequently not slow as a waterfall model.
+Customer satisfy
+Business QA Dev work together daily
+Design changes from UX team
+Self organized team - scrum master
+Measure employee efforts
+
+—---------------------------------------------------------------------------------
+Freelancer + Marketing - Digital
+-----------------------------------------------------------------------------------
+
+Affiliate marketing -> promote any product & gets money if someone buys the product
+
+CRM - Customer Relationship Management , Customer Focused, Sales + Outreach + Email Automation
+Comparison
+ 
+ERP -  Enterprise Resource Planning , Timesheet , internal team handling , Like Jira
+
+SCM - Supply Chain Management - Trustrace - Traceability
+
+
+—--------------------------------------------------------------------------------
+Best Cold Call Technique
+—--------------------------------------------------------------------------------
+
+Search any hostel or business >>> Look for sites without websites or poor websites >>> Ask for easy website development >>> Client proposal >>> Delivery >>> receive money.
+
+Cold Call average success rate is around 2%.
+
+https://www.pandadoc.com/blog/how-to-write-a-winning-proposal-for-freelance-work/ 
+
+Contrast Effect -> Restaurant Soup Rate > 800₹ 650₹ 400₹ > we all go with 400 rs with high sales.
+
+Business Growth is inversely proportional to Customization.
+Less Business Growth = More Customization
+More Business Growth = Less Customization.
+Apple, Tesla , Amazon, Meta , Google and Netflix. = Features differ with subscription not user specific.
+
+Freelance Clients
+Strong Online Presence > Leverage with networking > Freelance platform [fiverr upwork] > Offer/Free consulting/Trial Projects > Referrals from existing clients > Email marketing > Collaborate with other Freelancers > Expand skill set > showcase skills/testimony online > Repeat the loop.
+
+Varieties vs Sales
+More the varieties = Lesser the sales
+Limited Varieties = More Sales [Apple]
+
+
+Freelance Application Projects :
+E-Commerce with customization
+Aesthetical Website + Form Validation + Login
+Booking Application + Payment Gateway
+
+Customers To Reach [If you see any website or application having issue very worst please note here, so if you know the skill you can rebuild with issue resolved to acquire clients]
+https://thegoatmedia.co/
+https://priyadhandapani.com/ - Responsiveness
+ 
+
+Symbols
+Tilde [tild] - ~ 
+Exclamatory - !
+At the rate - @ 
+Hash - # 
+$ - Dollar
+% - Percentage
+^ - Caret
+& - Ampersand 
+* - Asterisk 
+( ) - Parentheses 
+{} - Curly Braces or Brackets
+[] - Square Braces or Brackets
+; - Semicolon
+: - Colon
+<> - Angled Braces or Brackets 
+/ - Forward Slash
+\ - Backward Slash
+| - Vertical Bar
+- Hyphen
+_ - underscore
+, - Comma
+. - Dot
+>< - Chevron
+
