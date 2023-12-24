@@ -15,3 +15,5 @@ Js , Playwright Browsers
 
 open the code in vs code & run "npx playwright test"
 
+npx playwright --version 
+
