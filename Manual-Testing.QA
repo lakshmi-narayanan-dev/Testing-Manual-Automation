@@ -61,6 +61,7 @@ Intermittent Bugs => Sometimes happening sometimes not [not consistent bugs]
 Ad-hoc Release => Unplanned no document test case to test [client emergency time] 
 Defect Cascading => Defect Happening due to a defect.
 
+Functional Testing:
 Unit = One module , Integration = Between Modules , System = E2E
 
 NFT = Page loading, Performance, Malware, Exemption case behavior.
